@@ -30,10 +30,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![image](https://github.com/user-attachments/assets/1267bddb-3496-44bd-919c-ea89642c80cd)
+
 To start things off you should create an Microsoft Azure account, this is used to help us create the VM (virtual machine). Within azure you now have to create the virtual machine and simply name it "osticket-vm" or however you like to name it. 
 
 <br />
